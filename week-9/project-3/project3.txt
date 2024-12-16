@@ -1,0 +1,10 @@
+This is the result of all three datasets being merged into one single output.
+        
+The data will be written in the following order:
+Name of Commissioner, Ministry, Geopolitical Zone
+
+Aigbogun Alama Daudu, internal affairs, South West
+Murtala Afeez Bendu, justice, North East
+Okorocha Calistus Ogbona, defense, South South
+Adewale Jimoh Akanbi, power & steel, South West
+Osazuwa Faith Etieye, petroleum, South East
